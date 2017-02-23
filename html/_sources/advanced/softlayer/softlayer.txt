@@ -1,2 +1,0 @@
-Using xCAT in SoftLayer
-=======================
